@@ -1,7 +1,22 @@
-### Hi there 👋
+### Hello there. GENERAL KENOBI!!!
 
-<!--
-**imabr777/imabr777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Abraham Im, and I am a developer. 
+
+Skills:
+- HTML/CSS
+- Javascript/JQuery
+- PHP
+- SQL
+- Java
+- Python
+- React
+- Node (still learning)
+- Jekyll
+- Bootstrap
+- Sass/SCSS
+- Version Control
+
+I've been trying my hand lately at game dev
 
 Here are some ideas to get you started:
 

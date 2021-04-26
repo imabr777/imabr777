@@ -1,31 +1,32 @@
-### Hello there. GENERAL KENOBI!!!
+# Hello there.
 
-My name is Abraham Im, and I am a developer. 
+![Hello there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-Skills:
+## About Me
+My name is Abraham Im, and I am a developer. I think I naturally gravitated toward it because I like making things and playing with computers. Put those together and what do you get? Development. 
+
+Skills:  
 - HTML/CSS
 - Javascript/JQuery
-- PHP
-- SQL
-- Java
-- Python
-- React
-- Node (still learning)
-- Jekyll
-- Bootstrap
 - Sass/SCSS
-- Version Control
+- React
+- Python (Django, no Flask yet)
+- SQL (I've used MySQL, PostgreSQL, Oracle SQL)
+- PHP
+- Java
+- Bootstrap (I more often use Flexbox Grid and implement everything else myself)
+- Jekyll
 
-I've been trying my hand lately at game dev
+Learning or planning to learn in the near future (plinf):
+- C++ 
+- Node
+- Express
+- MongoDB
 
-Here are some ideas to get you started:
+I mostly do web dev stuff, although I've been studying things about game development lately. From the technologies used, to the history (High Score on Netflix was fun), it's all really fun to learn. I also love listening to old video game soundtracks, they were just so amazing, what awesome tunes they were able to make, and how those just stick around in one's head, forever. [This has to be my favorite of all time](https://youtu.be/5sz6loECFrg). In any case, I've thought about a few different games that I want to make, although none of them are completely fleshed out. I did a little bit of worldbuilding for one of them, it'll probably follow roughly in the footsteps of FTL, maybe a hint of Stellaris and even Star Trek. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also consider myself a musician. I play piano, guitar, and drums at various levels of proficiency, although I couldn't say that I'm exactly professional at any of them.
+
+I like to read and write nerdy sci-fi and fantasy stuff a little as well. As you might notice from the GIF above, I really love Star Wars. I also love Lord of the Rings, Artemis Fowl, Harry Potter, anything with good world building. I'm soon to dive into the Dune series as well, I'm really looking forward to it. I really like Star Trek too, although it feels like a bit of a different creature than the others.
+
+As for musician me, I play piano, guitar, and drums, sometimes (more like rarely) make my own music. Some of my most prized possessions are my guitars and my drum set, though
